@@ -193,3 +193,11 @@ background-image: url(../images/actor3.jpeg);
     font-family: 'Jua', sans-serif;
   }
 /* END FOOTER */
+
+
+@media only screen and (max-width: 980px) {
+.sidebar {
+    display: none;
+}
+
+}
